@@ -1,4 +1,4 @@
-﻿Car Make,Car Model,Year,Engine Size (L),Horsepower,Torque (lb-ft),0-60 MPH Time (seconds),Price (in USD)
+﻿Car_Make,Car_Model,Year,Engine_Size,Horsepower,Torque,0_60_MPH_Time,Price_in_USD
 Porsche,911,2022,3,379,331,4,101200
 Lamborghini,Huracan,2021,5.2,630,443,2.8,274390
 Ferrari,488 GTB,2022,3.9,661,561,3,333750
